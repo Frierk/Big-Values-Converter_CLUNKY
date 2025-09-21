@@ -95,9 +95,9 @@
             label3.AutoSize = true;
             label3.Location = new Point(65, 46);
             label3.Name = "label3";
-            label3.Size = new Size(50, 25);
+            label3.Size = new Size(58, 25);
             label3.TabIndex = 8;
-            label3.Text = "Från:";
+            label3.Text = "From:";
             // 
             // timer1
             // 
@@ -127,9 +127,9 @@
             label6.AutoSize = true;
             label6.Location = new Point(66, 138);
             label6.Name = "label6";
-            label6.Size = new Size(40, 25);
+            label6.Size = new Size(34, 25);
             label6.TabIndex = 13;
-            label6.Text = "Blir:";
+            label6.Text = "To:";
             // 
             // label4
             // 
@@ -182,7 +182,7 @@
             Controls.Add(label1);
             Controls.Add(textBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Converter (Powers)";
             ResumeLayout(false);
             PerformLayout();
         }
